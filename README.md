@@ -16,7 +16,9 @@ El objetivo fue transformar procesos manuales y dispersos en una herramienta dig
 
 ## 🛠️ Stack Tecnológico
 * **Plataforma:** AppSheet (No-Code/Low-Code).
+* <img width="1914" height="931" alt="image" src="https://github.com/user-attachments/assets/28ba4ab7-232b-43b8-945c-4c28e4fd7143" />
 * **Base de Datos:** Google Sheets (Estructura Relacional).
+* 
 * **Lógica:** Expresiones Avanzadas (SELECT, LOOKUP, ANY, Valid_If).
 * **Automatización:** Bots nativos de AppSheet para notificaciones y limpieza de datos.
 
@@ -26,4 +28,4 @@ Como estudiante de **Relaciones Públicas (UNLaM)** y **Gestión Pública (UNER)
 ---
 *Si querés saber más sobre la lógica detrás de este desarrollo o cómo integrarlo con otros sistemas (como n8n o Groq), no dudes en contactarme.*
 
-[LinkedIn](TU_LINK_DE_LINKEDIN) | [Portafolio](TU_OTRO_LINK)
+[LinkedIn](https://www.linkedin.com/in/guillermo-coronel) | [Portafolio](https://mi-perfil-ia.vercel.app/ )
